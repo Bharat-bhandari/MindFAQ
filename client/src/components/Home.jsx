@@ -20,7 +20,7 @@ const Home = () => {
         </Link>
         <p className="or">
           or
-          <Link className="create-game" to="/login">
+          <Link className="create-game" to="/createagame">
             create a game
           </Link>
         </p>
